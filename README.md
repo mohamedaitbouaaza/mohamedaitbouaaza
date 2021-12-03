@@ -1,6 +1,6 @@
 ### Hi there 👋 , 
 
-Mohamed AIT BOUAAZA Software engineer , interested in Java & Angular & OSS
+Mohamed AIT BOUAAZA Software engineer , interested in Java & .Net & Angular & OSS
 
 
 My stats & badges 
