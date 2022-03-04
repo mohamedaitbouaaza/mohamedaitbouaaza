@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
--👂 I like to hear from others about their developer tips
+-👂 I like to hear from others about their developer tips </br>
 -🔎 looking to contribute to open source projects
 
 </br>
