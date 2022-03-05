@@ -20,7 +20,7 @@
 </p>
 
 -👂 I like to hear from others about their development tips. </br>
--🔎 looking to contribute to open source projects : Java , .Net , Typescript.
+-🔎 Looking to contribute to open source projects : Java , .Net , Typescript.
 
 </br>
 
