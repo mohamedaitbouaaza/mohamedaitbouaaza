@@ -25,7 +25,15 @@
 </br>
 
 <p align="center">
- <a href="#" alt="My github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaitbouaaza&theme=tokyonight&show_icons=true" />
+ <a href="#" alt="My repositories stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaitbouaaza&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=contribs,issues" />
+ </a>
+</p>
+
+</br>
+
+<p align="center">
+ <a href="#" alt="My Languages stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaitbouaaza&layout=compact" />
  </a>
 </p>
