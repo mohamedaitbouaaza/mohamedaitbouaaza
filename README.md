@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I'm Mohamed AIT BOUAAZA </h1>
+<h1 align="center">Hi there 👋 , I'm Mohamed </h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mohamedaitbouaaza/" target="_blank">
